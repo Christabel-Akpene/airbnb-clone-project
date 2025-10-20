@@ -48,5 +48,25 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
+### Color Styles
+
+- **Primary:** `#FF5A5F`  
+- **Secondary:** `#008489`  
+- **Background:** `#FFFFFF`  
+- **Text:** `#222222`  
+- **Secondary Text:** `#717171`  
+
+### Typography
+
+- **Primary Font:** Circular  
+- **Headings:** Bold (700), 24px–32px  
+- **Body:** Medium (500), 16px  
+- **Secondary Text:** Book (400), 14px 
+
+##  Importance of Identifying Design Properties
+
+Identifying the design properties of a mockup—such as color schemes, typography, spacing, and layout—ensures visual consistency and alignment with the intended user experience. It helps developers accurately implement the design, reduces miscommunication, and speeds up the handoff between design and development teams. Clear design specs also support accessibility and brand consistency across the application.
+
+
 ---
 
